@@ -1,0 +1,3 @@
+
+python  pierwszypytong.py
+PAUSE
